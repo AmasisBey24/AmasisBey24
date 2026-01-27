@@ -17,6 +17,6 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: (https://x.com/TechyAppMobi)
-[instagram]: (https://www.instagram.com/techyappmobiofficial)
-[linkedin]: (https://www.linkedin.com/in/amasisbeyportfolio24)
+[twitter]: https://x.com/TechyAppMobi
+[instagram]: https://www.instagram.com/techyappmobiofficial
+[linkedin]: https://www.linkedin.com/in/amasisbeyportfolio24
