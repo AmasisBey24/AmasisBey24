@@ -1,4 +1,4 @@
-<img width="1143" height="396" alt="AmasisTechBanner" src="https://github.com/user-attachments/assets/190066e5-01b6-4947-81ca-2c9b49e2b970" />
+<img width="1732" height="519" alt="AmasisTechBanner" src="https://github.com/user-attachments/assets/78a6087d-d6a5-431b-a866-7b34dc031783" />
 
 <h1>Hi, I'm Amasis, an <a href="https://www.linkedin.com/in/amasisbeyportfolio24">IT Professional</a>☑︎</h1>
 
